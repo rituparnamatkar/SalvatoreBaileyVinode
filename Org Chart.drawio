@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-02T13:00:07.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9bFvoRBioiFRspXjDFuy" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-02T13:07:57.591Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="DSY2t0FVWirKRzJ4YQOC" version="24.0.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="4327" dy="1883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1827" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -161,11 +161,11 @@
         </mxCell>
         <mxCell id="70-sAqhF-472UI30aCsU-36" value="Responsibilities&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;fontSize=8;fillStyle=solid;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="-700" y="800" width="73" height="30" as="geometry">
-            <mxRectangle x="-700" y="660" width="215" height="200" as="alternateBounds" />
+            <mxRectangle x="-700" y="800" width="215" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="70-sAqhF-472UI30aCsU-39" value="&lt;ul&gt;&lt;li&gt;Product demo&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Lead to opportunity conversion&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Quote sharing.&lt;/li&gt;&lt;li style=&quot;&quot;&gt;PO receiving&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Payment Follow up&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="70-sAqhF-472UI30aCsU-36">
-          <mxGeometry x="-15" y="25" width="230" height="110" as="geometry" />
+        <mxCell id="70-sAqhF-472UI30aCsU-39" value="&lt;ul&gt;&lt;li&gt;Product demo&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Lead to opportunity conversion&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Quote sharing.&lt;/li&gt;&lt;li style=&quot;&quot;&gt;PO receiving&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Payment Follow up&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Product market fit&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Initial customers&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="70-sAqhF-472UI30aCsU-36">
+          <mxGeometry x="-15" y="10" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="70-sAqhF-472UI30aCsU-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70-sAqhF-472UI30aCsU-40" target="70-sAqhF-472UI30aCsU-42">
           <mxGeometry relative="1" as="geometry">
@@ -318,12 +318,12 @@
         <mxCell id="70-sAqhF-472UI30aCsU-92" value="&lt;ul&gt;&lt;li&gt;Prototyping&amp;nbsp;&lt;/li&gt;&lt;li&gt;Tech Stack&amp;nbsp;&lt;/li&gt;&lt;li&gt;Comparative analysis&lt;br&gt;&lt;/li&gt;&lt;li&gt;Procurement&lt;/li&gt;&lt;li&gt;Vendor relationship&lt;/li&gt;&lt;li&gt;TAT Product development&lt;/li&gt;&lt;li&gt;MVP and NPD products&lt;br&gt;&lt;/li&gt;&lt;li&gt;POC Activities support&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#E6E6E6;fillStyle=solid;" vertex="1" parent="70-sAqhF-472UI30aCsU-91">
           <mxGeometry y="19" width="200" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="70-sAqhF-472UI30aCsU-93" value="Responsibilities&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;fontSize=8;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;gradientColor=none;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="1700" y="500" width="73" height="30" as="geometry">
-            <mxRectangle x="2020" y="360" width="270" height="180" as="alternateBounds" />
+        <mxCell id="70-sAqhF-472UI30aCsU-93" value="Responsibilities&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;fontSize=8;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="500" width="270" height="180" as="geometry">
+            <mxRectangle x="1700" y="500" width="73" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="70-sAqhF-472UI30aCsU-94" value="&lt;ul&gt;&lt;li&gt;Design research&lt;/li&gt;&lt;li&gt;User testing&lt;/li&gt;&lt;li&gt;User Experience&amp;nbsp;&lt;/li&gt;&lt;li&gt;Wireframing&lt;/li&gt;&lt;li&gt;Brand Guidelines&lt;/li&gt;&lt;li&gt;Marketing collateral templates&lt;/li&gt;&lt;li&gt;new idea validation&lt;/li&gt;&lt;li&gt;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#E6E6E6;fillStyle=solid;" vertex="1" parent="70-sAqhF-472UI30aCsU-93">
+        <mxCell id="70-sAqhF-472UI30aCsU-94" value="&lt;ul&gt;&lt;li&gt;Design research&lt;/li&gt;&lt;li&gt;User testing&lt;/li&gt;&lt;li&gt;User Experience&amp;nbsp;&lt;/li&gt;&lt;li&gt;Wireframing&lt;/li&gt;&lt;li&gt;Brand Guidelines&lt;/li&gt;&lt;li&gt;Marketing collateral templates&lt;/li&gt;&lt;li&gt;new idea validation&lt;/li&gt;&lt;li&gt;Behavior modeling&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#E6E6E6;fillStyle=solid;" vertex="1" parent="70-sAqhF-472UI30aCsU-93">
           <mxGeometry y="19" width="220" height="150" as="geometry" />
         </mxCell>
         <mxCell id="70-sAqhF-472UI30aCsU-95" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
