@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-02T13:07:57.591Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="DSY2t0FVWirKRzJ4YQOC" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T12:12:25.493Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="IS5yh_4vnmUUzQWJo1zA" version="24.0.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1827" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1445" dy="332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -205,7 +205,7 @@
         </mxCell>
         <mxCell id="70-sAqhF-472UI30aCsU-51" value="Responsibilities&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;fontSize=8;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;gradientColor=none;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="-310" y="680" width="73" height="30" as="geometry">
-            <mxRectangle x="-310" y="540" width="180" height="180" as="alternateBounds" />
+            <mxRectangle x="-310" y="680" width="180" height="180" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="70-sAqhF-472UI30aCsU-52" value="&lt;ul&gt;&lt;li&gt;Marketing Plan&lt;/li&gt;&lt;li&gt;Projection&lt;/li&gt;&lt;li&gt;Market research&amp;nbsp;&lt;/li&gt;&lt;li&gt;GTM&lt;/li&gt;&lt;li&gt;Review &amp;amp; validation&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#E6E6E6;fillStyle=solid;" vertex="1" parent="70-sAqhF-472UI30aCsU-51">
@@ -228,7 +228,7 @@
         </mxCell>
         <mxCell id="70-sAqhF-472UI30aCsU-61" value="Responsibilities&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;fontSize=8;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;gradientColor=none;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="-50" y="670" width="73" height="30" as="geometry">
-            <mxRectangle x="-10" y="530" width="220" height="180" as="alternateBounds" />
+            <mxRectangle x="-50" y="670" width="220" height="180" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="70-sAqhF-472UI30aCsU-62" value="&lt;ul&gt;&lt;li&gt;Vendor development.&lt;/li&gt;&lt;li&gt;Outsourcing&lt;/li&gt;&lt;li&gt;Quotation, PO, PI, Payments&lt;/li&gt;&lt;li&gt;Documentation (CRM, ERP)&lt;/li&gt;&lt;li&gt;Pre requisite contracts.&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#E6E6E6;fillStyle=solid;" vertex="1" parent="70-sAqhF-472UI30aCsU-61">
@@ -237,9 +237,9 @@
         <mxCell id="70-sAqhF-472UI30aCsU-63" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="70-sAqhF-472UI30aCsU-65" value="Responsibilities&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;fontSize=8;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;gradientColor=none;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="190" y="670" width="73" height="30" as="geometry">
-            <mxRectangle x="230" y="530" width="220" height="180" as="alternateBounds" />
+        <mxCell id="70-sAqhF-472UI30aCsU-65" value="Responsibilities&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;fontSize=8;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="670" width="220" height="180" as="geometry">
+            <mxRectangle x="190" y="670" width="73" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="70-sAqhF-472UI30aCsU-66" value="&lt;ul&gt;&lt;li&gt;Leasing&lt;/li&gt;&lt;li&gt;Logistics&lt;/li&gt;&lt;li&gt;Manufacturing&lt;/li&gt;&lt;li&gt;Online/ Retail distribution&lt;/li&gt;&lt;li&gt;Service &amp;amp; claim&lt;/li&gt;&lt;li&gt;Marketing Collateral setup&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#E6E6E6;fillStyle=solid;" vertex="1" parent="70-sAqhF-472UI30aCsU-65">
@@ -331,6 +331,12 @@
         </mxCell>
         <mxCell id="70-sAqhF-472UI30aCsU-97" value="CMD" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="354" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="70-sAqhF-472UI30aCsU-99" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="70-sAqhF-472UI30aCsU-100" value="Mirror to a thought process/ Help build character" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
